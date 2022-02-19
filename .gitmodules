@@ -1,0 +1,8 @@
+[submodule "MyArchitecture-Main"]
+	path = MyArchitecture-Main
+	url = https://github.com/nakg/MyArchitecture-Main.git
+	branch = main
+[submodule "MyArchitecture-CommonPresenter"]
+	path = MyArchitecture-CommonPresenter
+	url = https://github.com/nakg/MyArchitecture-CommonPresenter.git
+	branch = main
