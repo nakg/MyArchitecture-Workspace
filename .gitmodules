@@ -6,3 +6,15 @@
 	path = MyArchitecture-CommonPresenter
 	url = https://github.com/nakg/MyArchitecture-CommonPresenter.git
 	branch = main
+[submodule "MyArchitecture-CommonUtility"]
+	path = MyArchitecture-CommonUtility
+	url = https://github.com/nakg/MyArchitecture-CommonUtility.git
+	branch = main
+[submodule "MyArchitecture-CommonDomain"]
+	path = MyArchitecture-CommonDomain
+	url = https://github.com/nakg/MyArchitecture-CommonDomain.git
+	branch = main
+[submodule "MyArchitecture-CommonData"]
+	path = MyArchitecture-CommonData
+	url = https://github.com/nakg/MyArchitecture-CommonData.git
+	branch = main

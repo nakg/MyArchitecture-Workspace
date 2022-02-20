@@ -7,4 +7,13 @@
    <FileRef
       location = "group:MyArchitecture-CommonPresenter/MyArchitecture-CommonPresenter.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:MyArchitecture-CommonDomain/MyArchitecture-CommonDomain.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyArchitecture-CommonData/MyArchitecture-CommonData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyArchitecture-CommonUtility/MyArchitecture-CommonUtility.xcodeproj">
+   </FileRef>
 </Workspace>
